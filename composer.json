@@ -1,5 +1,5 @@
 {
-  "name": "promocat/yii2-twofa",
+  "name": "unique/yii2-twofa",
   "type": "yii2-extension",
   "description": "Provides TOTP and QR codes for use with an authenticator like the one from Google or Authy",
   "keywords": [
@@ -22,7 +22,7 @@
     }
   ],
   "require": {
-    "php": "^7.4",
+    "php": "^8.2",
     "yiisoft/yii2": "~2.0.0",
     "bacon/bacon-qr-code": "~2.0",
     "pragmarx/google2fa": "^8.0"
